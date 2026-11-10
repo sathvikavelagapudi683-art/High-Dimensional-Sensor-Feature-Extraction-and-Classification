@@ -1,0 +1,4 @@
+model,accuracy,balanced_accuracy,macro_f1,roc_auc,experiment_snapshot
+Elastic Net Logistic Regression,0.6575,0.6454,0.6243,0.6959,covariance_tangent_space_methodology_deck
+RBF SVM,0.7276,0.6102,0.6177,0.7079,covariance_tangent_space_methodology_deck
+Random Forest,0.7276,0.5860,0.5864,0.6783,covariance_tangent_space_methodology_deck
